@@ -1,0 +1,11 @@
+[
+{
+  nomeMacchina: '',
+  copieDiScarto: '',
+  giriLordi: '',
+  giriNetti: '',
+  velocitaAttuale: '',
+  velocitaTeorica: '',
+  commessaAttuale: ''
+}
+]
