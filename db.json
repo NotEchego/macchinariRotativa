@@ -1,9 +1,9 @@
 {
-  "nomeMacchina" : 'T4',
+  "nomeMacchina" : "T4",
   "copieDiScarto" : 250,
   "giriLordi" : 17000,
   "giriNetti" : 14000,
   "velocitaAttuale" : 250,
   "elocitaTeorica" : 300,
-  "commessaAttuale" : 'Dragon Ball Super t04'
+  "commessaAttuale" : "Dragon Ball Super t04"
 }
