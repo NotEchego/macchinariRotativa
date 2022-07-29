@@ -1,4 +1,5 @@
-{
+[
+  "T4": {
   "nomeMacchina" : "T4",
   "copieDiScarto" : 250,
   "giriLordi" : 17000,
@@ -6,4 +7,5 @@
   "velocitaAttuale" : 250,
   "elocitaTeorica" : 300,
   "commessaAttuale" : "Dragon Ball Super t04"
-}
+  }
+]
