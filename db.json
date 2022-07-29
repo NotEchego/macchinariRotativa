@@ -1,11 +1,11 @@
 [
 {
-  nomeMacchina: '',
-  copieDiScarto: '',
-  giriLordi: '',
-  giriNetti: '',
-  velocitaAttuale: '',
-  velocitaTeorica: '',
-  commessaAttuale: ''
+  nomeMacchina: 'T4',
+  copieDiScarto: 250,
+  giriLordi: 17000,
+  giriNetti: 14000,
+  velocitaAttuale: 250,
+  velocitaTeorica: 300,
+  commessaAttuale: 'Dragon Ball Super t04'
 }
 ]
